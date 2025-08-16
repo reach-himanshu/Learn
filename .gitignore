@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+.venv/
+env/
+venv/
+.pytest_cache/
+.mypy_cache/
+.coverage
+*.egg-info/
+*.egg
+
+# VSCode
+.vscode/
